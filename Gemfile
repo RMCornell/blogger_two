@@ -49,5 +49,8 @@ group :development, :test do
   # Adding Capybara
   gem 'capybara'
   gem 'launchy'
+
+  # Adding Paperclip
+  gem 'paperclip'
 end
 
